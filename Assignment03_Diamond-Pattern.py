@@ -14,3 +14,14 @@ def draw_diamond(height):
 # Calling the function with height 5
 draw_diamond(5)
 
+
+#The output is;
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
